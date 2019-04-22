@@ -3,4 +3,4 @@ owner=
 prefix= 
 game= Type help
 stayinchannel=true
-songinstatus=true
+songinstatus=false
